@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Math Basics",
+    "description": "Introduction to basic mathematics concepts.",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 8,
+    "price": 199.99,
+    "nextSessionDate": "2025-06-10T15:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Science Explorers",
+    "description": "Hands-on science experiments for kids.",
+    "category": "Science",
+    "type": "CLUB",
+    "gradeRange": "3rd–5th",
+    "minAge": 8,
+    "maxAge": 10,
+    "price": 299.99,
+    "nextSessionDate": "2025-06-12T15:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Art & Creativity",
+    "description": "Painting and drawing sessions.",
+    "category": "Art",
+    "type": "ONE_TIME",
+    "gradeRange": "1st–4th",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 149.99,
+    "nextSessionDate": "2025-06-15T15:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Coding for Kids",
+    "description": "Introduction to programming using fun tools.",
+    "category": "Coding",
+    "type": "COURSE",
+    "gradeRange": "4th–6th",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 499.99,
+    "nextSessionDate": "2025-06-20T15:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Music Club",
+    "description": "Learn basics of singing and instruments.",
+    "category": "Music",
+    "type": "CLUB",
+    "gradeRange": "2nd–5th",
+    "minAge": 7,
+    "maxAge": 11,
+    "price": 249.99,
+    "nextSessionDate": "2025-06-25T15:00:00Z"
+  }
+]
